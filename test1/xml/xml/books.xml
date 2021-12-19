@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<books>
+    <book sn="Sn1">
+        <name>语文</name>
+        <author>张三</author>
+        <price>10</price>
+    </book>
+    <book sn="Sn2">
+        <name>数学</name>
+        <author>李四</author>
+        <price>20</price>
+    </book>
+</books>
